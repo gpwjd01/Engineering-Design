@@ -18,3 +18,10 @@
 
 
 ## 2. OpenCV
+- OpenCV, the core library of computer vision and image processing, all at once
+### Dependencies
+- Python 3+
+- dlib
+- OpenCV
+- numpy
+- matplotlib (for visualization)
